@@ -1,2 +1,2 @@
 # iguanaAzul
-ete eh mi supositorio
+ete eh mi repositorio
